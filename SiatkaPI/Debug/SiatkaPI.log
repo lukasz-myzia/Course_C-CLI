@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+D:\zzz.Kopia\Dysk Google\@@@SWPW\SEM_4\GK_Cw\SiatkaPI\MyForm.h(108,64): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\zzz.Kopia\Dysk Google\@@@SWPW\SEM_4\GK_Cw\SiatkaPI\MyForm.h(108,55): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\zzz.Kopia\Dysk Google\@@@SWPW\SEM_4\GK_Cw\SiatkaPI\MyForm.h(117,64): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+D:\zzz.Kopia\Dysk Google\@@@SWPW\SEM_4\GK_Cw\SiatkaPI\MyForm.h(117,55): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  MyForm.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+  SiatkaPI.vcxproj -> D:\zzz.Kopia\Dysk Google\@@@SWPW\SEM_4\GK_Cw\SiatkaPI\Debug\SiatkaPI.exe

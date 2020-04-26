@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+D:\zzz.Kopia\Dysk Google\@@@SWPW\SEM_4\GK_Cw\Graf2\MyForm.h(79,10): warning C4101: "j": lokalna zmienna, do której nie istnieje odwołanie
+  MyForm.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+  Graf2.vcxproj -> D:\zzz.Kopia\Dysk Google\@@@SWPW\SEM_4\GK_Cw\Graf2\Debug\Graf2.exe
